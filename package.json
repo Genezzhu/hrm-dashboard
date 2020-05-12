@@ -1,8 +1,8 @@
 {
-  "name": "ant-design-pro",
+  "name": "hrm-dashboard",
   "version": "1.0.0",
   "private": true,
-  "description": "An out-of-box UI solution for enterprise applications",
+  "description": "Online Human Resources Management System",
   "scripts": {
     "analyze": "cross-env ANALYZE=1 umi build",
     "build": "umi build",
